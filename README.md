@@ -244,6 +244,7 @@ Note-taking, meeting tools, task management, and workflow enhancement.
 |------|-------------|--------|
 | [NotebookLM](https://notebooklm.google.com) | Google's AI research tool with source-grounded answers | 🟢 🌐 |
 | [Notion AI](https://notion.so) | AI layer across your entire Notion workspace | 💰 🌐 🖥️ |
+| [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) | Open-source Windows desktop companion for tracking Codex quota and reset times | 🟢 🔓 🖥️ |
 | [Otter.ai](https://otter.ai) | AI meeting transcription and summaries | 💰 🌐 |
 | [Fireflies.ai](https://fireflies.ai) | AI notetaker for meetings | 💰 🌐 |
 | [Granola](https://granola.ai) | AI-enhanced meeting notes | 💰 🖥️ |
